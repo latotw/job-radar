@@ -1,0 +1,9 @@
+companies:
+  - name: GitLab
+    provider: greenhouse
+    token: gitlab
+    enabled: true
+  - name: Automattic
+    provider: greenhouse
+    token: automattic
+    enabled: true

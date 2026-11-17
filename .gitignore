@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+data/*.db
+data/*.sqlite*
+reports/*
+!reports/.gitkeep
+logs/*
+!logs/.gitkeep
+config/profile.local.yaml
+/config/profile.yaml

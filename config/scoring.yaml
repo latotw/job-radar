@@ -1,0 +1,10 @@
+weights:
+  role_alignment: 30
+  skills_experience: 25
+  industry_relevance: 10
+  seniority: 10
+  compensation: 10
+  timezone: 10
+  freshness: 5
+annual_compensation_target_twd: 2000000
+freshness_days: 30

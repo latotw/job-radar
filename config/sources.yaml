@@ -1,0 +1,21 @@
+user_agent: "GlobalRemoteJobRadar/0.1 (personal job research; contact: local-user)"
+timeout_seconds: 20
+retries: 2
+rate_limit_seconds: 1.0
+sources:
+  himalayas: {enabled: true, url: "https://himalayas.app/jobs/api/search"}
+  weworkremotely:
+    enabled: true
+    feeds:
+      - "https://weworkremotely.com/categories/remote-product-jobs.rss"
+      - "https://weworkremotely.com/categories/remote-management-and-finance-jobs.rss"
+      - "https://weworkremotely.com/remote-jobs.rss"
+  remoteok: {enabled: true, url: "https://remoteok.com/api", rss_url: "https://remoteok.com/remote-jobs.rss"}
+  greenhouse: {enabled: true}
+  lever: {enabled: true}
+  ashby: {enabled: true}
+manual_research:
+  - "https://actuallyremote.com/"
+  - "https://alion.com/"
+  - "https://www.linkedin.com/jobs/search/?keywords=program%20manager&location=Taiwan&f_WT=2"
+  - "https://www.remotive.com/remote-jobs"

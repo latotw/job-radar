@@ -1,0 +1,1 @@
+"""Taiwan eligibility rules."""

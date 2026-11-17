@@ -1,0 +1,17 @@
+# Copy to profile.yaml and fill with verified information. Keep profile.yaml private.
+name: TODO
+location: Taiwan
+timezone: Asia/Taipei
+utc_offset: "+08:00"
+current_company: TODO
+experience_years: TODO
+languages: {}
+target_roles:
+  tier1: []
+  tier2: []
+industries: []
+achievements: []
+metadata_confirmation:
+  linkedin_profile_url: TODO
+  preferred_contact_email: TODO
+  resume_file_path: TODO
