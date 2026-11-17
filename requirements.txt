@@ -1,0 +1,7 @@
+-e .
+httpx>=0.27,<1
+feedparser>=6.0,<7
+PyYAML>=6,<7
+pydantic>=2.7,<3
+streamlit>=1.36,<2
+pandas>=2.2,<4
